@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../wishlist-xapi/wishlist-xapi/service/target/wishlist-service-1.12.0-SNAPSHOT/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../wishlist-xapi/wishlist-xapi/service/target/wishlist-service-1.12.0-SNAPSHOT/WEB-INF/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../wishlist-xapi/wishlist-xapi/service/target/wishlist-service-1.12.0-SNAPSHOT/WEB-INF/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../wishlist-xapi/wishlist-xapi/service/target/wishlist-service-1.12.0-SNAPSHOT/WEB-INF/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
